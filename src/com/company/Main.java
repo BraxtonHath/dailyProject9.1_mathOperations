@@ -29,9 +29,9 @@ public class Main {
     }
 
     public static void showResults(double sum, double subtract, double division, double multiple) {
-        System.out.println("your answer for sum is:"sum);
-        System.out.println("your answer for subtraction is:"subtract);
-        System.out.println("your answer for division is:"division);
+        System.out.println("your answer for sum is:" + sum);
+        System.out.println("your answer for subtraction is:" + subtract);
+        System.out.println("your answer for division is:" + division);
         System.out.println("your answer for multiplying is:" + multiple);
 
     }
