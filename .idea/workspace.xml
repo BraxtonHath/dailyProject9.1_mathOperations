@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9740179-81cd-4bb2-b65f-ae917c4f90c0" name="Default" comment="Finished project">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/.keep" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/app.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/models/todo.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/package.json" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/collections/todos.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/models/todo.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/routers/router.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/views/app-view.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/js/views/todo-view.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/backbone.localstorage/backbone.localStorage.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/todomvc-app-css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/todomvc-common/base.css" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/todomvc-common/base.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Backend Code/End Of The Day/7.5API/todomvc/static/vendor/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dailyProject9.1_mathOperations.iml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Code/End of Day Projects/4.3 Fetch/customers" afterPath="$USER_HOME$/Code/End of Day Projects/4.3 Fetch/customers" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Backend Code/End Of The Week/Week-5/controllers/hangC.js" afterPath="$USER_HOME$/Backend Code/End Of The Week/Week-5/controllers/hangC.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="527">
+              <caret line="31" column="60" lean-forward="false" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -56,7 +29,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -123,10 +96,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -428,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500383876874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished project">
+      <created>1500386763776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500386763776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -468,6 +451,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
     <MESSAGE value="Finished project" />
     <option name="LAST_COMMIT_MESSAGE" value="Finished project" />
   </component>
@@ -482,6 +468,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -490,8 +484,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="527">
+          <caret line="31" column="60" lean-forward="false" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
           <folding />
         </state>
       </provider>
